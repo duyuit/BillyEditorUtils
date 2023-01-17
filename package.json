@@ -1,7 +1,7 @@
 {
   "name": "com.billy.package.editorutils",
   "displayName": "Billy Editor Utils",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "unity": "2019.3",
   "unityRelease": "0a8",
   "description": "Provide some useful package for Unity Editor",
